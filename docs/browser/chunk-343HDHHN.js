@@ -1,0 +1,1 @@
+import{La as i,Ma as a,Sa as r,U as o,Wa as s}from"./chunk-24QHHWFD.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["ng-component"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,c){n&1&&(i(0,"p"),r(1,"defer-option works!"),a())}});let t=e;return t})();export{f as default};
